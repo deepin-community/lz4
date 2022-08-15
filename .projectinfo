@@ -1,0 +1,1 @@
+{"project":"lz4","type":"","version":" 1.9.3-2","hierarchy":"base","priority":"","maintainer":"","packager":"","builddeps":" debhelper-compat (= 13), python3:any \u003c!nocheck\u003e, ","homepage":" https://github.com/Cyan4973/lz4","git":"https://github.com/lz4/lz4"}
