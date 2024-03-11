@@ -1,12 +1,13 @@
 Source: lz4
 Priority: optional
-Maintainer: Deepin Developer <deepin-dev@deepin.org>
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
 Build-Depends: debhelper-compat (= 13), python3:any <!nocheck>
-Standards-Version: 4.5.1
+Standards-Version: 4.6.1
 Section: utils
-Homepage: https://github.com/Cyan4973/lz4
-#Vcs-Browser
-#Vcs-Git
+Rules-Requires-Root: no
+Homepage: https://github.com/lz4/lz4
+Vcs-Browser: https://salsa.debian.org/debian/lz4
+Vcs-Git: https://salsa.debian.org/debian/lz4.git
 
 Package: liblz4-dev
 Section: libdevel
